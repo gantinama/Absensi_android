@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">tetsing</string>
+    <string name="app_name">Absensi</string>
     <string-array name="matkul">
         <item>Matkul 1</item>
         <item>Matkul 2</item>
